@@ -1,0 +1,16 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 90px; 
+    font-weight: bold;
+}
+
+.big-column {
+    width: 100%;
+}
+
+.small-column {
+    width: 250px;
+}
